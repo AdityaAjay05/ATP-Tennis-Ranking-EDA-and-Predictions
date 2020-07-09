@@ -1,0 +1,2 @@
+# ATP-Tennis-Ranking-EDA-and-Predictions
+The goal of this project is primarily to conduct an exploratory data analysis of the data set which the author of this document has put together with the assistance of multiple online resources. In this project, we will attempt to predict the possible ATP ranking of a male singles tennis player over a certain period of time from the implementation of this project. The data used in this project is derived from the official website of the ATP and its leader board known as the ATP Rankings.
